@@ -7391,7 +7391,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #ac0000 !important;
+  background-color: #020101 !important;
 }
 
 .bg-secondary {
@@ -10945,6 +10945,16 @@ header.masthead {
   background-attachment: scroll;
   background-size: cover;
 }
+header.masthead2 {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: url("../assets/img/IMG_9873.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
 }
