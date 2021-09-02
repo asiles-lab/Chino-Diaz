@@ -1,4 +1,11 @@
-#iconos{
+#contact{
+    text-align: center;
+    background-image: url("../assets/img/fondocontact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* #iconos{
     color: #ac0000;
     font-size: 5vh;
 }
@@ -10,7 +17,7 @@
 #pag2{
 background-color: #3f0d12;
 background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
-}
+} */
 .row{
     margin: 4vw;
     padding: 4vw;
@@ -21,7 +28,7 @@ background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
     color: white;
 }
 
-footer div a {
+/* footer div a {
     padding: 3vw;
     text-align: center;
     font-size: 5vw;
@@ -36,4 +43,4 @@ footer div a {
     padding-top: 3rem;
     text-align: center;
     padding-top: 3rem;
-    text-align: center; }
+    text-align: center; } */
